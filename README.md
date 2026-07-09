@@ -1,149 +1,110 @@
-\#
+<div align="center">
 
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ashish%20Ranjan&fontSize=42&fontAlignY=38&animation=twinkling&color=0:0F4C81,100:36BCF7"/>`{=html}
+<img src="https://capsule-render.com/api?type=waving&color=7dd3fc&height=220&section=header&text=Ashish%20Ranjan&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DevOps%20%2B%20SRE%20Engineer%20%7C%20AWS%20%7C%20Docker%20%7C%20Kubernetes&descAlignY=55&descSize=20" width="100%"/>
 
-## ☁️ Cloud Engineer \| AWS & DevOps Engineer \| Java Backend Developer
+<a href="https://www.linkedin.com/in/ashishran">
+  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+%2B+SRE+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Building+Highly+Available+Cloud+Infra;Automating+Everything+with+IaC+%26+CI%2FCD;Open+to+Work+%F0%9F%9A%80&font=Fira+Code&center=true&width=650&height=45&color=7dd3fc&vCenter=true&size=22" alt="Typing SVG" />
+</a>
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Cloud+Engineer;AWS+%26+DevOps+Engineer;Java+Backend+Developer;Spring+Boot+Developer;Linux+%26+Docker+Enthusiast;Building+Scalable+Cloud+Applications;Always+Learning+New+Technologies" />`{=html}
-:::
+<br/>
 
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>`{=html}
-`<img src="https://komarev.com/ghpvc/?username=ashishranjan1991&style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/github/followers/ashishranjan1991?style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
-## 👨‍💻 Who I Am
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-7dd3fc?style=for-the-badge&logo=handshake&logoColor=black)
 
-``` ts
-const ashish = {
-  title: "Cloud Engineer",
-  experience: "6+ Years",
-  specialization: [
-    "AWS Cloud",
-    "DevOps",
-    "Java Backend Development",
-    "Linux Administration"
+![Profile Views](https://komarev.com/ghpvc/?username=ashishranjan1991&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ashishranjan1991?color=7dd3fc&style=for-the-badge&label=FOLLOWERS)
+
+</div>
+
+---
+
+## 🧠 Who I Am
+
+```typescript
+const ashishRanjan = {
+  title: "DevOps + SRE Engineer",
+  stack: {
+    cloud: ["AWS (EC2, S3, Lambda, EKS, IAM, CloudFormation)"],
+    devops: ["Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions", "Ansible"],
+    aiTools: ["OpenAI API", "LangChain"],
+  },
+  launchedProjects: [
+    "three-tier-aws-architecture"
   ],
-  stack: [
-    "Java",
-    "Spring Boot",
-    "Hibernate",
-    "REST APIs",
-    "MySQL",
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "AWS",
-    "Docker",
-    "Linux",
-    "Git",
-    "Maven"
+  certifications: [
+    "Add your certifications here (e.g. AWS Certified Solutions Architect)"
   ],
-  status: "Actively building Cloud & Backend projects",
-  openTo: [
-    "Cloud Engineer",
-    "AWS DevOps Engineer",
-    "Java Backend Developer",
-    "Platform Engineer"
-  ]
+  status: "Building highly available, self-healing cloud infrastructure ⚙️",
+  openTo: ["Full-time DevOps/SRE roles", "Cloud infrastructure consulting", "Collaboration on IaC projects"],
 };
 ```
 
-## 🚀 Tech Stack
+---
 
-### Languages
+## 🚀 Featured Projects
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=java,js,html,css"/>`{=html}
-```{=html}
-</p>
-```
-### Backend
+### 🔹 Three-Tier AWS Architecture
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=spring"/>`{=html}
-```{=html}
-</p>
-```
-### Cloud & DevOps
+Highly available, auto-scaling 3-tier web architecture on AWS — presentation, application, and database layers fully provisioned via Terraform with CI/CD-driven deployments.
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,maven"/>`{=html}
-```{=html}
+<p align="left">
+  <a href="https://github.com/ashishranjan1991/three-tier-aws-architecture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishranjan1991&repo=three-tier-aws-architecture&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
+  </a>
 </p>
-```
-### Database
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=mysql"/>`{=html}
-```{=html}
-</p>
-```
-## 📊 GitHub Statistics
+| Layer | Technology |
+|---|---|
+| Presentation | Nginx, AWS ALB |
+| Application | Docker, AWS EC2 (Auto Scaling Group) |
+| Database | AWS RDS |
+| Infrastructure as Code | Terraform |
+| CI/CD | Jenkins |
 
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashishranjan1991&show_icons=true&theme=nord"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishranjan1991&layout=compact&theme=nord"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=ashishranjan1991&theme=nord"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=ashishranjan1991&theme=nord&no-frame=true&no-bg=true&row=1"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishranjan1991&theme=nord"/>`{=html}
-```{=html}
-</p>
-```
-## 🌟 Professional Highlights
+🔗 [Live](#) &nbsp;·&nbsp; 💻 [Code](https://github.com/ashishranjan1991/three-tier-aws-architecture)
 
--   6+ Years of IT Experience
--   Java Backend Development
--   Spring Boot & REST APIs
--   AWS Cloud Fundamentals
--   Docker & Linux
--   Git & Maven
--   Passionate about Cloud & DevOps
+> *(Replace repo name / live link above once you confirm the actual GitHub repo — this project was drafted on your behalf.)*
 
-## 🤝 Connect
+---
 
-```{=html}
-<p>
-```
-`<a href="https://github.com/ashishranjan1991">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F4C81,100:36BCF7"/>`{=html}
-:::
+## 🛠️ Tech Stack
+
+**DevOps & Infrastructure**
+
+![devops](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,ansible)
+
+**Cloud**
+
+![cloud](https://skillicons.dev/icons?i=aws)
+
+**AI Tools**
+
+![ai](https://skillicons.dev/icons?i=openai)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashishranjan1991&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishranjan1991&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=ashishranjan1991&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="98%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashishranjan1991&no-frame=true&no-bg=true&theme=nord" width="98%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishranjan1991&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" width="98%" />
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishran)
+
+</div>
+
+<img src="https://capsule-render.com/api?type=waving&color=7dd3fc&height=150&section=footer" width="100%"/>
